@@ -61,7 +61,8 @@ To send a webhook notification, make an HTTP POST request to the webhook endpoin
 
 Example Request:
 
-```curl -X POST -H "Content-Type: application/json" -d '{"id":"8","name": "samuel"}' http://localhost:5000/user_created
+```
+curl -X POST -H "Content-Type: application/json" -d '{"id":"8","name": "samuel"}' http://localhost:5000/user_created
 ```
 
 ### Handling the Webhook Notification
