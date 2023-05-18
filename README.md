@@ -1,4 +1,4 @@
-# Event-Driven Microservices with Webhook Integration
+# Event-Driven Microservices with Webhooks & database Integration
 
 This project demonstrates an event-driven microservices architecture using Apache Kafka for event streaming and webhook integration with external services. The architecture allows for scalable and decoupled communication between microservices through events, and enables external services to receive notifications and interact with the microservices via webhooks. A shared database allows for microservices to store data.
 
