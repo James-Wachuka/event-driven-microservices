@@ -1,0 +1,8 @@
+bin/
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
+kafka-3.4.0-src.tgz
+kafka-3.4.0-src/
